@@ -1,8 +1,8 @@
 # Web Development Project 1 - *Name of App Here*
 
-Submitted by: **Your Name Here**
+Submitted by: Charles Norris
 
-This web app: **insert description**
+This web app: This website Show case food destinations around Washington DC and Arlington VA
 
 Time spent: 7 hours spent in total
 
